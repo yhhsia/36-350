@@ -1,4 +1,3 @@
-# 36-350-Spring-22
-
+# 36-350
 This is an edit to this file
 1234
